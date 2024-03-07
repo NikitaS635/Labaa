@@ -1,0 +1,8 @@
+C:/Users/User2/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir
+C:/Users/User2/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User2/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User2/CLionProjects/untitled5/cmake-build-debug/libs/CMakeFiles/edit_cache.dir
+C:/Users/User2/CLionProjects/untitled5/cmake-build-debug/libs/CMakeFiles/rebuild_cache.dir
+C:/Users/User2/CLionProjects/untitled5/cmake-build-debug/libs/algorithms/CMakeFiles/algorithms.dir
+C:/Users/User2/CLionProjects/untitled5/cmake-build-debug/libs/algorithms/CMakeFiles/edit_cache.dir
+C:/Users/User2/CLionProjects/untitled5/cmake-build-debug/libs/algorithms/CMakeFiles/rebuild_cache.dir

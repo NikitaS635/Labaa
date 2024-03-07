@@ -1,0 +1,6 @@
+# ninja log v5
+1054	8073	7315253901958402	build.ninja	d467b2161e8797cb
+20	3099	7315253942471069	CMakeFiles/untitled5.dir/main.c.obj	570ec53cd78f9103
+116	3334	7315253944620994	libs/algorithms/CMakeFiles/algorithms.dir/funk/funk.c.obj	edff00bdb96a8c2c
+3335	6525	7315253976753742	libs/algorithms/libalgorithms.a	18fe70084a86cc0a
+6526	9514	7315254006341804	untitled5.exe	2f565a57d381b495
